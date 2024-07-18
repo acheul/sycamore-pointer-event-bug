@@ -2,5 +2,6 @@
 resolver = "2"
 members = [
   "v082-on",
-  "v090b2-on", "v090b2-add", "v090b2-builder"
+  "v090b2-on", "v090b2-add", "v090b2-builder",
+  "v090b2-mix"
 ]

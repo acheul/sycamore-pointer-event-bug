@@ -1,6 +1,6 @@
-use sycamore::{prelude::*, web::html::{ev, EventHandler}};
-use wasm_bindgen::prelude::*;
+use sycamore::prelude::*;
 use gloo_console::log;
+
 
 
 fn main() {
@@ -27,7 +27,7 @@ fn App<G: Html>() -> View<G> {
 #[component]
 pub fn Sub<G: Html>() -> View<G> {
 
-  // Hereby pointer event works too when it's under the Builder syntax component.
+  // Hereby pointer event works too when it's under the Builder syntax component who has pointer event
   view! {
     div(
       id="id2", style="width: 200px; height: 200px; border: 1px solid black; display: flex; justify-content: space-between;",
