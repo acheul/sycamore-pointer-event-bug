@@ -12,7 +12,7 @@ view! {
 }
 ```
 
-For the comparison, these cases works well:
+For the comparison, these cases work well:
 * Browser-side:
   * using Firefox
 * Code-side:
@@ -24,7 +24,7 @@ For the comparison, these cases works well:
 
 **To Reproduce**
 
-Check crates under this repository:
+Check crates under [this repository](https://github.com/acheul/sycamore-pointer-event-bug):
 
 * `v090b2-on`:
   * using view! syntax, Sycamore=v0.9.0.beta-2;
