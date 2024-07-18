@@ -1,4 +1,4 @@
-# Sycamore-v0.9.0's PointerEvent building error in Chrome (Windows)
+# Sycamore-v0.9.0's PointerEvent error in Chrome (Windows)
 
 **Describe the bug**
 
