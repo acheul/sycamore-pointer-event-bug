@@ -16,7 +16,7 @@ For the comparison, these cases work well:
 * Browser-side:
   * using Firefox
 * Code-side:
-  * Explicitly add a event handler inside of `on_mount` scope
+  * Explicitly add an event handler inside of `on_mount` scope
   * using Builder syntax, not `view!` syntax
   * using Sycamore version 0.8.2
 
